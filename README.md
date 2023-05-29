@@ -4,6 +4,8 @@
 
 #### :arrow_down: Project Output
 
+https://webagecalculator.netlify.app/
+
 ### :man_technologist: About the project :
 
 - I've built a simple age calculator to calculate your age (Not for 2000 born, lol).
