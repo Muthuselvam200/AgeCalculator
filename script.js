@@ -16,5 +16,10 @@ function calculate() {
     document.querySelector("#days").innerHTML = ageInDays % 30.44;
     document.querySelector("#hours").innerHTML = ageInHours % 24;
     document.querySelector("#minutes").innerHTML = ageInMinutes % 60;
-  });
+    document.querySelector("#seconds").innerHTML = ageInSeconds % 60;
+  }, 1000);
+}
+
+function reset() {
+  window.location.reload();
 }
